@@ -245,7 +245,7 @@ module.exports = {
 nexora </> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴇxᴏʀᴀ • ꨄ︎ 𝙆𝙔𝙉𝙓 ꨄ︎`;
 
     // Try to send with image
-    const imagePath = path.join(__dirname, '../../violet.jpg');
+    const imagePath = path.join(__dirname, '../../violet (1).jpg');
     
     try {
       if (fs.existsSync(imagePath)) {
