@@ -1,0 +1,11 @@
+node_modules/
+auth/
+temp/
+.env
+*.log
+.DS_Store
+*.webp
+*.mp4
+*.jpg
+*.png
+!violet.jpg

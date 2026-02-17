@@ -1,0 +1,5 @@
+NOTE: Place your menu image here as 'violet.jpg'
+
+This file should be a JPEG image that will be displayed when users type .menu
+
+If no image is present, the bot will send the menu as text only.
